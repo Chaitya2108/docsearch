@@ -1,4 +1,4 @@
-technical/plos/
+technical/plos
 technical/plos/journal.pbio.0020001.txt
 technical/plos/journal.pbio.0020010.txt
 technical/plos/journal.pbio.0020012.txt
